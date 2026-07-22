@@ -186,9 +186,15 @@ Building strong foundations through end-to-end ML projects.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=testgit-007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
+<img
+  width="49%"
+  src="https://github-stats-extended.vercel.app/api?username=testgit-007&show_icons=true&theme=github_dark&hide_border=true"
+/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=testgit-007&theme=github-dark-blue&hide_border=true&background=0D1117" />
+<img
+  width="49%"
+  src="https://streak-stats.demolab.com/?user=testgit-007&theme=github-dark-blue&hide_border=true"
+/>
 
 </div>
 
@@ -196,7 +202,10 @@ Building strong foundations through end-to-end ML projects.
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=testgit-007&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
+<img
+  width="55%"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=testgit-007&layout=compact&theme=github_dark&hide_border=true"
+/>
 
 </div>
 
