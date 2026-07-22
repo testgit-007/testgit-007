@@ -206,7 +206,18 @@ Building strong foundations through end-to-end ML projects.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/testgit-007/testgit-007/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/testgit-007/testgit-007/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/testgit-007/testgit-007/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake"
+       src="https://raw.githubusercontent.com/testgit-007/testgit-007/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 </div>
 
