@@ -170,12 +170,12 @@ Building strong foundations through end-to-end ML projects.
 ```text
 ┌──────────────────────────────────────────────┐
 │                                              │
-│   ◉ Large Language Models                   │
-│   ◉ Retrieval-Augmented Generation          │
-│   ◉ GraphRAG                                │
-│   ◉ AI Agents                               │
-│   ◉ Machine Learning Systems                │
-│   ◉ Production-ready AI Projects            │
+│   ◉ Large Language Models                    │
+│   ◉ Retrieval-Augmented Generation           │
+│   ◉ GraphRAG                                 │
+│   ◉ AI Agents                                │
+│   ◉ Machine Learning Systems                 │
+│   ◉ Production-ready AI Projects             │
 │                                              │
 └──────────────────────────────────────────────┘
 ```
